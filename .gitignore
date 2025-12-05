@@ -416,3 +416,9 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+/.ml_env
+*.ml_env
+ml_env
+.ml_env
+/ml_env
